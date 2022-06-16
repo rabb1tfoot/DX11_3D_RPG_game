@@ -1,0 +1,88 @@
+﻿  CamScript.cpp
+  CameraEx.cpp
+  CreateScene.cpp
+  DX11.cpp
+  GameObjectEx.cpp
+  GridScript.cpp
+  코드를 생성하고 있습니다...
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC4BC5.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC6HBC7.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexDDS.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexImage.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexTGA.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' 또는 'E:\DX11\dxproject_4_06\bin_debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  DX11.vcxproj -> E:\DX11\dxproject_4_06\\bin_debug\Client.exe
+  .\Engine\Animation2D.h
+  .\Engine\Animator2D.h
+  .\Engine\Animator3D.h
+  .\Engine\BlendState.h
+  .\Engine\Camera.h
+  .\Engine\Collider2D.h
+  .\Engine\Collider3D.h
+  .\Engine\CollisionMgr.h
+  .\Engine\Component.h
+  .\Engine\ConstBuffer.h
+  .\Engine\Core.h
+  .\Engine\define.h
+  .\Engine\DepthStencilState.h
+  .\Engine\Device.h
+  .\Engine\Entity.h
+  .\Engine\EventMgr.h
+  .\Engine\FBXLoader.h
+  .\Engine\Filter23.h
+  .\Engine\Font23.h
+  .\Engine\FontHelperMgr.h
+  .\Engine\func.h
+  .\Engine\GameObject.h
+  .\Engine\global.h
+  .\Engine\instancingBuffer.h
+  .\Engine\KeyMgr.h
+  .\Engine\Layer.h
+  .\Engine\Light3D.h
+  .\Engine\Material.h
+  .\Engine\Mesh.h
+  .\Engine\MeshData.h
+  .\Engine\MeshRender.h
+  .\Engine\MRT.h
+  .\Engine\ParticleSystem.h
+  .\Engine\PathMgr.h
+  .\Engine\Prefab.h
+  .\Engine\RenderMgr.h
+  .\Engine\RenderTarget23.h
+  .\Engine\ResMgr.h
+  .\Engine\Resource.h
+  .\Engine\ResPtr.h
+  .\Engine\SamplerState.h
+  .\Engine\Scene.h
+  .\Engine\SCeneMgr.h
+  .\Engine\Script.h
+  .\Engine\Shader.h
+  .\Engine\SimpleMath.h
+  .\Engine\Sound.h
+  .\Engine\State.h
+  .\Engine\struct.h
+  .\Engine\StructuredBuffer.h
+  .\Engine\Terrain.h
+  .\Engine\Texture.h
+  .\Engine\TimeMgr.h
+  .\Engine\Transform.h
+  54개 파일이 복사되었습니다.
+  .\Engine\Compute.fx
+  .\Engine\effect.fx
+  .\Engine\func.fx
+  .\Engine\light.fx
+  .\Engine\particle.fx
+  .\Engine\posteffect.fx
+  .\Engine\skybox.fx
+  .\Engine\std.fx
+  .\Engine\std3d.fx
+  .\Engine\terrain.fx
+  .\Engine\tool.fx
+  .\Engine\value.fx
+  12개 파일이 복사되었습니다.

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{d8aef95c-ee24-4668-8a44-4f5dafa15d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{b802c43c-acd9-454d-9f77-875bbbadd6a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\Singleton">
+      <UniqueIdentifier>{18b5fdc1-9c13-4000-bbe7-aa42f7e24acb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="SaveLoadMgr.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptMgr.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleScript.h">
+      <Filter>Scripts\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="TestMgrScript.h">
+      <Filter>Scripts\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="WalkingGravityScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="FollowCamScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAttackSpell.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="FireArrow.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogueScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogueBoxScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="HotKeyScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="SaveLoadMgr.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptMgr.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMgrScript.cpp">
+      <Filter>Scripts\Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="WalkingGravityScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowCamScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAttackSpell.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="FireArrow.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogueScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogueBoxScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="HotKeyScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

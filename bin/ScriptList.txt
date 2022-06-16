@@ -1,0 +1,13 @@
+DialogueBoxScript
+DialogueScript
+FireArrow
+FollowCamScript
+HotKeyScript
+Inventory
+ItemScript
+MonsterScript
+NPCScript
+PlayerAttackSpell
+PlayerScript
+TestMgrScript
+WalkingGravityScript

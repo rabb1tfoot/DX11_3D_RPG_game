@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Module">
+      <UniqueIdentifier>{37af84f5-8175-4886-ab90-bbffe24bbc4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01.ToolApp">
+      <UniqueIdentifier>{f8c758fd-0386-4b88-a383-0267adc4c4a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.FrmWindow">
+      <UniqueIdentifier>{cf8eecec-512a-4c40-90a7-d95db94f6586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View">
+      <UniqueIdentifier>{a40de131-0725-4d78-89f0-bb67a6aef0cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View\BtnView">
+      <UniqueIdentifier>{988c7323-d4d3-414c-8ac6-25469beb22c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View\ComponentView">
+      <UniqueIdentifier>{4e29dc90-27d3-46a8-8304-9f95737d9304}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View\DebugView">
+      <UniqueIdentifier>{b50d1efa-1c45-4bf1-9372-576bc4ee1044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View\GameView">
+      <UniqueIdentifier>{947f9d6e-9181-47ec-8fb5-71784b596592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03.View\HierachyView">
+      <UniqueIdentifier>{1ce2c7fe-72c2-431c-9e9b-0da66ce10a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04.Dialog">
+      <UniqueIdentifier>{8790a50b-526b-4560-a531-8bffd098c7b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04.Dialog\ComDlg">
+      <UniqueIdentifier>{4ad90935-adb6-47ac-89c0-29675bff3b53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05.EngineEx">
+      <UniqueIdentifier>{c9c40da8-e8bb-45e7-8c72-dd1aaa2db0c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04.Dialog\HierachyDlg">
+      <UniqueIdentifier>{942eca46-889a-4529-bffb-78bdfc63e785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04.Dialog\ListDlg">
+      <UniqueIdentifier>{9f2e68ba-b20b-468d-a8b5-9fca88c9f97f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool.h">
+      <Filter>소스 파일\01.ToolApp</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserSplitterWnd.h">
+      <Filter>소스 파일\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>소스 파일\02.FrmWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentView.h">
+      <Filter>소스 파일\03.View\ComponentView</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugView.h">
+      <Filter>소스 파일\03.View\DebugView</Filter>
+    </ClInclude>
+    <ClInclude Include="HierachyView.h">
+      <Filter>소스 파일\03.View\HierachyView</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameView.h">
+      <Filter>소스 파일\03.View\GameView</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraEx.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="CamScript.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectEx.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="GridScript.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialEx.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="ListDlg.h">
+      <Filter>소스 파일\04.Dialog\ListDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshRenderDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectDlg.h">
+      <Filter>소스 파일\04.Dialog\HierachyDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="ResDlg.h">
+      <Filter>소스 파일\04.Dialog\HierachyDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnView.h">
+      <Filter>소스 파일\03.View\BtnView</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="AddComDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="Light3DDLG.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider3DDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="FpsScript.h">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator3DDlg.h">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>소스 파일\01.ToolApp</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserSplitterWnd.cpp">
+      <Filter>소스 파일\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일\02.FrmWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentView.cpp">
+      <Filter>소스 파일\03.View\ComponentView</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugView.cpp">
+      <Filter>소스 파일\03.View\DebugView</Filter>
+    </ClCompile>
+    <ClCompile Include="HierachyView.cpp">
+      <Filter>소스 파일\03.View\HierachyView</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameView.cpp">
+      <Filter>소스 파일\03.View\GameView</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraEx.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="CamScript.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectEx.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="GridScript.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialEx.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="ListDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ListDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshRenderDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectDlg.cpp">
+      <Filter>소스 파일\04.Dialog\HierachyDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="ResDlg.cpp">
+      <Filter>소스 파일\04.Dialog\HierachyDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnView.cpp">
+      <Filter>소스 파일\03.View\BtnView</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="AddComDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="Light3DDLG.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider3DDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="FpsScript.cpp">
+      <Filter>소스 파일\05.EngineEx</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator3DDlg.cpp">
+      <Filter>소스 파일\04.Dialog\ComDlg</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Tool.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Tool.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
